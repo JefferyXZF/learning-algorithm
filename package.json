@@ -1,0 +1,19 @@
+{
+  "name": "learning-algorithm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JefferyXZF/learning-algorithm.git",
+  "author": "jeffery",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.8",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-typescript": "^7.12.7",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.4.4",
+    "typescript": "^4.1.2"
+  }
+}
